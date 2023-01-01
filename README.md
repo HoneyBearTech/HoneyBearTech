@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <p align="center">
   <code><img title="Shell" height="25" src="images/bash.svg"></code>
   <code><img title="Jinja" height="25" src="images/Jinja.svg"></code>
+  <code><img title="YAML" height="25" src="images/yaml.svg"></code>
 </p>
 <hr>
 
