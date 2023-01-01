@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<br>
+<p align="center">
+  <code><img title="Shell" height="25" src="images/bash.svg"></code>
+  <code><img title="Jinja" height="25" src="images/jinja.svg"></code>
+</p>
+<hr>
+
 <!--<img src="https://github-readme-stats.vercel.app/api?username=HoneyBearTech&count_private=true&show_icons=true&include_all_commits=true" />
 -->
 <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/master/profile-3d-contrib/profile-season-animate.svg" />
