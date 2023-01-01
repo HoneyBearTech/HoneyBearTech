@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <code><img title="Shell" height="25" src="images/bash.svg"></code>
-  <code><img title="Jinja" height="25" src="images/jinja.svg"></code>
+  <code><img title="Jinja" height="25" src="images/Jinja.svg"></code>
 </p>
 <hr>
 
