@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/master/profile-3d-contrib/profile-season-animate.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyBearTech)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyBearTech)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--![](https://steam-stat.vercel.app/api?profileName=The_Casual_Lizard)
 -->
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=drovic26)
