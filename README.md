@@ -3,7 +3,9 @@
   <code><a href="https://stackoverflow.com/users/20905415/honeybeartech" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
-### Hi there 👋
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+</p>
 
 <!--
 **HoneyBearTech/HoneyBearTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
