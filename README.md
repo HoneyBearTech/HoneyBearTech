@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
-  <code><img title="Shell" height="25" src="images/bash.svg"></code>
-  <code><img title="Jinja" height="25" src="images/Jinja.svg"></code>
-  <code><img title="YAML" height="25" src="images/yaml.svg"></code>
+  <code><img title="Shell" height="30" src="images/bash.svg"></code>
+  <code><img title="Jinja" height="30" src="images/Jinja.svg"></code>
+  <code><img title="YAML" height="30" src="images/yaml.svg"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
 </p>
 <hr>
 
