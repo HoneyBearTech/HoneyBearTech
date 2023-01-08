@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
+# 📊 My Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoneyBearTech&theme=dark&count_private=true&theme=radical)
+
 <!--<img src="https://github-readme-stats.vercel.app/api?username=HoneyBearTech&count_private=true&show_icons=true&include_all_commits=true" />
 -->
 <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/master/profile-3d-contrib/profile-night-green.svg" />
