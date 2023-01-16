@@ -7,6 +7,14 @@
   <img width="250" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
 </p>
 
+<h5 align="center">
+
+  ![GitHub followers](https://img.shields.io/github/followers/HoneyBearTech?logo=GitHub&style=for-the-badge)
+  ![GitHub Stars](https://img.shields.io/github/stars/HoneyBearTech?logo=github&style=for-the-badge)
+  ![Twitch Status](https://img.shields.io/twitch/status/honeybeartech?color=9147FF&logo=twitch&style=for-the-badge)
+
+</h5>
+
 <!--
 **HoneyBearTech/HoneyBearTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
