@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <code><img title="Shell" height="30" src="images/bash.svg"></code>
+   <code><img title="Docker" height="30" src="images/docker.png"></code>
   <code><img title="Jinja" height="30" src="images/Jinja.svg"></code>
   <code><img title="YAML" height="30" src="images/yaml.svg"></code>
   <code><img title="Python" height="30" src="images/python-original.svg"></code>
