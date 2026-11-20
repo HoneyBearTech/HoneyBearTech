@@ -4,6 +4,23 @@ Why things are the way they are: each entry gives the decision, the reason and
 what was turned down. Newest first. What shipped is in the [pass
 map](pass-map.md).
 
+## 2026-11-20: The metrics image goes in the README, shown in full
+
+Job `readme-metrics-image` (#11).
+
+**Decision.** A new "📊 GitHub metrics" section shows `github-metrics.svg` by its
+full address on the `metrics` branch, between "Open-source contributions" and
+"Contribution graph", shown in full rather than collapsed.
+
+**Why.** The owner asked for the image on the profile. The workflow commits it to
+its own branch, so a relative link from `main` wouldn't find it. The owner
+approved the plan without asking for the collapsed version.
+
+**Not done.** What the image shows is unchanged. It is public and now includes
+two GitHub projects (Homelab and Software); leaving either out would be a
+separate change to the Metrics workflow's settings. The image was checked before
+embedding: no scripts or outside links, no private names, addresses or emails.
+
 ## 2026-11-20: Renovate merges its own pull requests
 
 Job `renovate-automerge` (#9).
