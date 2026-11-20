@@ -31,6 +31,7 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 <details>
 <summary><b>Latest 10 pull requests</b></summary>
 
+- 🟢 Open · [Handle unknown Beckett advertisements](https://github.com/custom-components/ble_monitor/pull/1636) — `custom-components/ble_monitor`
 - 🟢 Open · [Fix lights marked as manually controlled right after turning on](https://github.com/basnijholt/adaptive-lighting/pull/1667) — `basnijholt/adaptive-lighting`
 - 🟢 Open · [Show the tracked airport in the airport input, not a rejected code](https://github.com/AlexandrErohin/home-assistant-flightradar24/pull/362) — `AlexandrErohin/home-assistant-flightradar24`
 - 🟢 Open · [Keep the exact position when a tracked flight is found by search](https://github.com/AlexandrErohin/home-assistant-flightradar24/pull/361) — `AlexandrErohin/home-assistant-flightradar24`
@@ -40,7 +41,6 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 - 🟢 Open · [test(adur-worthing): build fixture dates from today so the parser tests stop expiring](https://github.com/robbrad/UKBinCollectionData/pull/2350) — `robbrad/UKBinCollectionData`
 - 🟢 Open · [fix(carmarthenshire): read collections for homes on the new separated recycling service](https://github.com/robbrad/UKBinCollectionData/pull/2349) — `robbrad/UKBinCollectionData`
 - 🟢 Open · [fix(wanneroo_wa_gov_au): use the council's new address and bin-day lookups](https://github.com/mampfes/hacs_waste_collection_schedule/pull/8241) — `mampfes/hacs_waste_collection_schedule`
-- 🟢 Open · [fix(awido_de): skip waste type codes missing from the council's list](https://github.com/mampfes/hacs_waste_collection_schedule/pull/8240) — `mampfes/hacs_waste_collection_schedule`
 
 </details>
 <!-- CONTRIBUTIONS:END -->
