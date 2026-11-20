@@ -1,33 +1,33 @@
 name: Metrics
  
-  on:
-    schedule:
-      - cron: "0 5 * * *"
-    workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
 
-  permissions:
-    contents: write
+permissions:
+  contents: write
     
-  jobs:
-    metrics:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: HoneyBearTech/metrics@a154fb47223c63f23e9f9e8a376237cb06098854 # master
-          with:
-            token: ${{ secrets.METRICS_TOKEN }}
-            committer_token: ${{ secrets.GITHUB_TOKEN }}
-            committer_branch: metrics
-            filename: github-metrics.svg
-            base: header, activity, community, repositories, metadata
-            plugin_isocalendar: yes 
-            plugin_activity: yes
-            plugin_habits: yes
-            plugin_habits_from: 100
-            plugin_languages: yes
-            plugin_languages_sections: most-used, recently-used
-            plugin_achievements: yes
-            plugin_achievements_display: compact
-            plugin_projects: yes
+jobs:
+  metrics:
+    runs-on: ubuntu-lates
+    steps:
+      - uses: HoneyBearTech/metrics@a154fb47223c63f23e9f9e8a376237cb06098854 # master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes 
+          plugin_activity: yes
+          plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_projects: yes
             plugin_lines: yes
             plugin_notable: yes
             plugin_code: yes
