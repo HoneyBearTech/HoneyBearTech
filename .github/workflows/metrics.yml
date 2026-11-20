@@ -10,7 +10,7 @@ permissions:
     
 jobs:
   metrics:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
       - uses: HoneyBearTech/metrics@a154fb47223c63f23e9f9e8a376237cb06098854 # master
         with:
