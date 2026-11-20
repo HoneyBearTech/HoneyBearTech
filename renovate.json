@@ -11,6 +11,9 @@
   "ignoreTests": true,
   "minimumReleaseAge": "3 days",
   "minimumReleaseAgeBehaviour": "timestamp-optional",
+  "vulnerabilityAlerts": {
+    "labels": ["security", "openssf"]
+  },
   "packageRules": [
     {
       "description": "An image rebuild (a new digest under the same tag) doesn't wait: Docker Hub dates a rebuild by the tag's last push, so a tag rebuilt about weekly would restart the clock each time and never clear the wait.",
