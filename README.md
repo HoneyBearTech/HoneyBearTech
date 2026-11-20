@@ -45,6 +45,12 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 </details>
 <!-- CONTRIBUTIONS:END -->
 
+### 📊 GitHub metrics
+
+<p>
+  <a href="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/github-metrics.svg"><img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/github-metrics.svg" alt="GitHub metrics" /></a>
+</p>
+
 ### 📈 Contribution graph
 
 <picture>
