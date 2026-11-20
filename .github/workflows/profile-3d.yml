@@ -27,6 +27,6 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated"; then
-            git pull --rebase
-            git push
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
           fi
