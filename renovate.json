@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "Renovate proposes every dependency update and merges it once every check on the pull request has passed (none is required on this repository, so Renovate waits for the ones that run: platformAutomerge is off and it merges on its next run). A new version waits three days after its release (minimumReleaseAge); fixes for vulnerability alerts skip the wait by Renovate's default. timestamp-optional lets an update from a registry that reports no release date through. See https://docs.renovatebot.com/configuration-options/#minimumreleaseage",
+  "description": "Renovate proposes every dependency update and merges it on its next run (platformAutomerge is off). No checks run on pull requests in this repository, and a pull request with no status counts as pending, so ignoreTests is on: the 3-day wait is the only gate. A new version waits three days after its release (minimumReleaseAge); fixes for vulnerability alerts skip the wait by Renovate's default. timestamp-optional lets an update from a registry that reports no release date through. See https://docs.renovatebot.com/configuration-options/#minimumreleaseage",
   "extends": [
     "config:recommended"
   ],
@@ -8,6 +8,7 @@
   "automergeType": "pr",
   "automergeStrategy": "squash",
   "platformAutomerge": false,
+  "ignoreTests": true,
   "minimumReleaseAge": "3 days",
   "minimumReleaseAgeBehaviour": "timestamp-optional",
   "packageRules": [
@@ -16,6 +17,13 @@
       "matchDatasources": ["docker"],
       "matchUpdateTypes": ["digest"],
       "minimumReleaseAge": null
+    },
+    {
+      "description": "This action runs on a schedule with the DEPLOY_KEY secret, so an unreviewed release could run with that key: its updates stay manual.",
+      "matchManagers": ["github-actions"],
+      "matchPackageNames": ["yoshi389111/github-profile-3d-contrib"],
+      "automerge": false,
+      "groupName": null
     }
   ]
 }
