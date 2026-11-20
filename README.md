@@ -17,22 +17,58 @@ I build and maintain backend services and full-stack applications, with a strong
 - **[platform](https://github.com/HoneyBearTech/platform)** — Collection of quick-start templates for provisioning environments with Ansible and Docker.
 - **[DockerApps](https://github.com/HoneyBearTech/DockerApps)** — Curated set of Docker Compose files for self-hosting containerized services.
 
+### 🤝 Open-source contributions
+
+I fix bugs and send pull requests to projects I use, mostly Home Assistant integrations and self-hosting tools.
+
+<p>
+  <a href="https://github.com/search?type=pullrequests&q=is%3Apr+author%3AHoneyBearTech+-user%3AHoneyBearTech"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AHoneyBearTech%20-user%3AHoneyBearTech&label=PRs%20to%20other%20projects&color=0e75b6" alt="Pull requests to other projects" /></a>
+  <a href="https://github.com/search?type=pullrequests&q=is%3Apr+author%3AHoneyBearTech+-user%3AHoneyBearTech+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AHoneyBearTech%20-user%3AHoneyBearTech%20is%3Amerged&label=merged&color=8957e5" alt="Merged pull requests to other projects" /></a>
+  <a href="https://github.com/search?type=pullrequests&q=is%3Apr+author%3AHoneyBearTech+-user%3AHoneyBearTech+is%3Aopen"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AHoneyBearTech%20-user%3AHoneyBearTech%20is%3Aopen&label=open&color=2ea043" alt="Open pull requests to other projects" /></a>
+</p>
+
+<!-- CONTRIBUTIONS:START -->
+<details>
+<summary><b>Latest 10 pull requests</b></summary>
+
+- 🟢 Open · [Fix lights marked as manually controlled right after turning on](https://github.com/basnijholt/adaptive-lighting/pull/1667) — `basnijholt/adaptive-lighting`
+- 🟢 Open · [Show the tracked airport in the airport input, not a rejected code](https://github.com/AlexandrErohin/home-assistant-flightradar24/pull/362) — `AlexandrErohin/home-assistant-flightradar24`
+- 🟢 Open · [Keep the exact position when a tracked flight is found by search](https://github.com/AlexandrErohin/home-assistant-flightradar24/pull/361) — `AlexandrErohin/home-assistant-flightradar24`
+- 🟢 Open · [fix(sensor): keep "9am" lowercase in observation sensor names (fixes #287)](https://github.com/bremor/bureau_of_meteorology/pull/362) — `bremor/bureau_of_meteorology`
+- 🟢 Open · [fix(setup): retry setup when BOM cannot be reached (fixes #282)](https://github.com/bremor/bureau_of_meteorology/pull/361) — `bremor/bureau_of_meteorology`
+- 🟢 Open · [fix(sensor): handle missing UV end time in UV forecast summary (fixes #284)](https://github.com/bremor/bureau_of_meteorology/pull/360) — `bremor/bureau_of_meteorology`
+- 🟢 Open · [test(adur-worthing): build fixture dates from today so the parser tests stop expiring](https://github.com/robbrad/UKBinCollectionData/pull/2350) — `robbrad/UKBinCollectionData`
+- 🟢 Open · [fix(carmarthenshire): read collections for homes on the new separated recycling service](https://github.com/robbrad/UKBinCollectionData/pull/2349) — `robbrad/UKBinCollectionData`
+- 🟢 Open · [fix(wanneroo_wa_gov_au): use the council's new address and bin-day lookups](https://github.com/mampfes/hacs_waste_collection_schedule/pull/8241) — `mampfes/hacs_waste_collection_schedule`
+- 🟢 Open · [fix(awido_de): skip waste type codes missing from the council's list](https://github.com/mampfes/hacs_waste_collection_schedule/pull/8240) — `mampfes/hacs_waste_collection_schedule`
+
+</details>
+<!-- CONTRIBUTIONS:END -->
+
+### 📈 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</picture>
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/javascript.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="images/php.svg" alt="php" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="images/cpp.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="images/mysql.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="images/ansible.svg" alt="ansible" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="images/nginx.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/linux.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/bash.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"><img src="images/circleci.svg" alt="circleci" width="40" height="40"/></a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="images/grafana.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 
