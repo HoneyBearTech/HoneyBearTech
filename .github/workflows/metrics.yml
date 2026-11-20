@@ -28,6 +28,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_projects: yes
-            plugin_lines: yes
-            plugin_notable: yes
-            plugin_code: yes
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_code: yes
