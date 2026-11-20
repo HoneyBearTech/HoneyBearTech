@@ -12,7 +12,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: HoneyBearTech/metrics@a154fb47223c63f23e9f9e8a376237cb06098854 # master
+      - uses: HoneyBearTech/metrics@48ae553714a50b66b74b521cb3dd1be7b043784e # master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
