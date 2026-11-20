@@ -27,6 +27,10 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
   <a href="https://github.com/search?type=pullrequests&q=is%3Apr+author%3AHoneyBearTech+-user%3AHoneyBearTech+is%3Aopen"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3AHoneyBearTech%20-user%3AHoneyBearTech%20is%3Aopen&label=open&color=2ea043" alt="Open pull requests to other projects" /></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/metrics.notable.svg" alt="Notable contributions" />
+</p>
+
 <!-- CONTRIBUTIONS:START -->
 <details>
 <summary><b>Latest 10 pull requests</b></summary>
@@ -45,10 +49,10 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 </details>
 <!-- CONTRIBUTIONS:END -->
 
-### 📊 GitHub metrics
+### 🏆 Achievements
 
-<p>
-  <a href="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/github-metrics.svg"><img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/github-metrics.svg" alt="GitHub metrics" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/metrics.achievements.svg" alt="GitHub achievements" />
 </p>
 
 ### 📈 Contribution graph
@@ -60,6 +64,10 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 </picture>
 
 ### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HoneyBearTech/HoneyBearTech/metrics/metrics.languages.svg" alt="Most-used and recently-used languages" />
+</p>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python-original.svg" alt="python" width="40" height="40"/></a>
