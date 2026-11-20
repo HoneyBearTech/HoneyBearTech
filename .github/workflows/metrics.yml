@@ -1,5 +1,5 @@
 name: Metrics
- 
+
 on:
   schedule:
     - cron: "0 5 * * *"
@@ -7,28 +7,45 @@ on:
 
 permissions:
   contents: write
-    
+
+# Each step renders one panel as its own SVG on the `metrics` branch,
+# so the README can place each panel in the section it belongs to.
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: HoneyBearTech/metrics@48ae553714a50b66b74b521cb3dd1be7b043784e # master
+      - name: Notable contributions
+        uses: HoneyBearTech/metrics@48ae553714a50b66b74b521cb3dd1be7b043784e # master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes 
-          plugin_activity: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
+          filename: metrics.notable.svg
+          base: ""
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request
+          plugin_notable_repositories: yes
+
+      - name: Languages
+        uses: HoneyBearTech/metrics@48ae553714a50b66b74b521cb3dd1be7b043784e # master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          filename: metrics.languages.svg
+          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage
+
+      - name: Achievements
+        uses: HoneyBearTech/metrics@48ae553714a50b66b74b521cb3dd1be7b043784e # master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          filename: metrics.achievements.svg
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_projects: yes
-          plugin_lines: yes
-          plugin_lines_delay: 30
-          plugin_notable: yes
-          plugin_code: yes
