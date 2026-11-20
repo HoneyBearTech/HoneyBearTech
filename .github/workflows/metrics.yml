@@ -29,5 +29,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_projects: yes
           plugin_lines: yes
+          plugin_lines_delay: 30
           plugin_notable: yes
           plugin_code: yes
