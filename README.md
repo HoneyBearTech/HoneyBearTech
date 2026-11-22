@@ -35,16 +35,16 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 <details>
 <summary><b>Latest 10 pull requests</b></summary>
 
-- 🟢 Open · [Support @property and @classmethod on pyscript class methods](https://github.com/custom-components/pyscript/pull/918) — `custom-components/pyscript`
-- 🟢 Open · [Support generator expressions, evaluated lazily (#564)](https://github.com/custom-components/pyscript/pull/917) — `custom-components/pyscript`
-- 🟢 Open · [Support super(), Base.__init__ and inherited __init__ in pyscript classes (#891)](https://github.com/custom-components/pyscript/pull/916) — `custom-components/pyscript`
-- 🟢 Open · [Docs: state triggers only fire when a value changes (#864)](https://github.com/custom-components/pyscript/pull/914) — `custom-components/pyscript`
-- 🟢 Open · [Docs: logger names for scripts, apps and modules (#520)](https://github.com/custom-components/pyscript/pull/913) — `custom-components/pyscript`
-- 🟢 Open · [Support del of attributes on normal objects](https://github.com/custom-components/pyscript/pull/912) — `custom-components/pyscript`
-- 🟢 Open · [Fix relative imports inside an app's subfolders (#726)](https://github.com/custom-components/pyscript/pull/911) — `custom-components/pyscript`
-- 🟢 Open · [Keep a decorator's own body when it uses functools.wraps (#808)](https://github.com/custom-components/pyscript/pull/910) — `custom-components/pyscript`
-- 🟢 Open · [Store nested classes themselves on the outer class (#875)](https://github.com/custom-components/pyscript/pull/907) — `custom-components/pyscript`
-- ⚪ Closed · [Restore the scope when a class body raises](https://github.com/custom-components/pyscript/pull/906) — `custom-components/pyscript`
+- 🟢 Open · [Recognize TVDb, TMDb and IMDb IDs in Plex NFO Series agent GUIDs](https://github.com/Kometa-Team/Kometa/pull/3880) — `Kometa-Team/Kometa`
+- 🟢 Open · [Support super().prop for pyscript properties](https://github.com/custom-components/pyscript/pull/923) — `custom-components/pyscript`
+- 🟢 Open · [Docs: how to read an attribute's old and new values (#433)](https://github.com/custom-components/pyscript/pull/922) — `custom-components/pyscript`
+- 🟢 Open · [Let trigger expressions start and end with blanks (#617)](https://github.com/custom-components/pyscript/pull/921) — `custom-components/pyscript`
+- 🟢 Open · [Let StopIteration be caught in try/except](https://github.com/custom-components/pyscript/pull/920) — `custom-components/pyscript`
+- 🟢 Open · [Let lambdas use the enclosing function's variables (#725)](https://github.com/custom-components/pyscript/pull/919) — `custom-components/pyscript`
+- 🟣 Merged · [Support @property and @classmethod on pyscript class methods](https://github.com/custom-components/pyscript/pull/918) — `custom-components/pyscript`
+- 🟣 Merged · [Support generator expressions, evaluated lazily (#564)](https://github.com/custom-components/pyscript/pull/917) — `custom-components/pyscript`
+- 🟣 Merged · [Support super(), Base.__init__ and inherited __init__ in pyscript classes (#891)](https://github.com/custom-components/pyscript/pull/916) — `custom-components/pyscript`
+- 🟣 Merged · [Docs: state triggers only fire when a value changes (#864)](https://github.com/custom-components/pyscript/pull/914) — `custom-components/pyscript`
 
 </details>
 <!-- CONTRIBUTIONS:END -->
