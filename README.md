@@ -35,16 +35,16 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 <details>
 <summary><b>Latest 10 pull requests</b></summary>
 
+- 🟣 Merged · [Use the new comprehension scoping in every function (#919 follow-up)](https://github.com/custom-components/pyscript/pull/924) — `custom-components/pyscript`
+- 🟢 Open · [Require lowercase index in processing mode values](https://github.com/Kometa-Team/Quickstart/pull/1982) — `Kometa-Team/Quickstart`
+- 🟢 Open · [Add the --timings option to the Kometa run options](https://github.com/Kometa-Team/Quickstart/pull/1981) — `Kometa-Team/Quickstart`
+- 🟢 Open · [Reject divider characters that break the Kometa run command](https://github.com/Kometa-Team/Quickstart/pull/1980) — `Kometa-Team/Quickstart`
+- 🟢 Open · [Fix mal_all genre source lost on import and export](https://github.com/Kometa-Team/Quickstart/pull/1979) — `Kometa-Team/Quickstart`
+- 🟢 Open · [Fix outdated README docker run example and Logscan scope note](https://github.com/Kometa-Team/Quickstart/pull/1978) — `Kometa-Team/Quickstart`
 - 🟢 Open · [Recognize TVDb, TMDb and IMDb IDs in Plex NFO Series agent GUIDs](https://github.com/Kometa-Team/Kometa/pull/3880) — `Kometa-Team/Kometa`
-- 🟢 Open · [Support super().prop for pyscript properties](https://github.com/custom-components/pyscript/pull/923) — `custom-components/pyscript`
-- 🟢 Open · [Docs: how to read an attribute's old and new values (#433)](https://github.com/custom-components/pyscript/pull/922) — `custom-components/pyscript`
-- 🟢 Open · [Let trigger expressions start and end with blanks (#617)](https://github.com/custom-components/pyscript/pull/921) — `custom-components/pyscript`
-- 🟢 Open · [Let StopIteration be caught in try/except](https://github.com/custom-components/pyscript/pull/920) — `custom-components/pyscript`
-- 🟢 Open · [Let lambdas use the enclosing function's variables (#725)](https://github.com/custom-components/pyscript/pull/919) — `custom-components/pyscript`
-- 🟣 Merged · [Support @property and @classmethod on pyscript class methods](https://github.com/custom-components/pyscript/pull/918) — `custom-components/pyscript`
-- 🟣 Merged · [Support generator expressions, evaluated lazily (#564)](https://github.com/custom-components/pyscript/pull/917) — `custom-components/pyscript`
-- 🟣 Merged · [Support super(), Base.__init__ and inherited __init__ in pyscript classes (#891)](https://github.com/custom-components/pyscript/pull/916) — `custom-components/pyscript`
-- 🟣 Merged · [Docs: state triggers only fire when a value changes (#864)](https://github.com/custom-components/pyscript/pull/914) — `custom-components/pyscript`
+- 🟣 Merged · [Support super().prop for pyscript properties](https://github.com/custom-components/pyscript/pull/923) — `custom-components/pyscript`
+- 🟣 Merged · [Docs: how to read an attribute's old and new values (#433)](https://github.com/custom-components/pyscript/pull/922) — `custom-components/pyscript`
+- 🟣 Merged · [Let trigger expressions start and end with blanks and span lines (#617)](https://github.com/custom-components/pyscript/pull/921) — `custom-components/pyscript`
 
 </details>
 <!-- CONTRIBUTIONS:END -->
