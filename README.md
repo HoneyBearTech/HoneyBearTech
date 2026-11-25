@@ -41,7 +41,7 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 - 🟢 Open · [Reject divider characters that break the Kometa run command](https://github.com/Kometa-Team/Quickstart/pull/1980) — `Kometa-Team/Quickstart`
 - 🟢 Open · [Fix mal_all genre source lost on import and export](https://github.com/Kometa-Team/Quickstart/pull/1979) — `Kometa-Team/Quickstart`
 - 🟢 Open · [Fix outdated README docker run example and Logscan scope note](https://github.com/Kometa-Team/Quickstart/pull/1978) — `Kometa-Team/Quickstart`
-- 🟢 Open · [Recognize TVDb, TMDb and IMDb IDs in Plex NFO Series agent GUIDs](https://github.com/Kometa-Team/Kometa/pull/3880) — `Kometa-Team/Kometa`
+- 🟣 Merged · [Recognize TVDb, TMDb and IMDb IDs in Plex NFO Series agent GUIDs](https://github.com/Kometa-Team/Kometa/pull/3880) — `Kometa-Team/Kometa`
 - 🟣 Merged · [Support super().prop for pyscript properties](https://github.com/custom-components/pyscript/pull/923) — `custom-components/pyscript`
 - 🟣 Merged · [Docs: how to read an attribute's old and new values (#433)](https://github.com/custom-components/pyscript/pull/922) — `custom-components/pyscript`
 - 🟣 Merged · [Let trigger expressions start and end with blanks and span lines (#617)](https://github.com/custom-components/pyscript/pull/921) — `custom-components/pyscript`
