@@ -36,11 +36,11 @@ I fix bugs and send pull requests to projects I use, mostly Home Assistant integ
 <summary><b>Latest 10 pull requests</b></summary>
 
 - 🟣 Merged · [Use the new comprehension scoping in every function (#919 follow-up)](https://github.com/custom-components/pyscript/pull/924) — `custom-components/pyscript`
-- 🟢 Open · [Require lowercase index in processing mode values](https://github.com/Kometa-Team/Quickstart/pull/1982) — `Kometa-Team/Quickstart`
-- 🟢 Open · [Add the --timings option to the Kometa run options](https://github.com/Kometa-Team/Quickstart/pull/1981) — `Kometa-Team/Quickstart`
-- 🟢 Open · [Reject divider characters that break the Kometa run command](https://github.com/Kometa-Team/Quickstart/pull/1980) — `Kometa-Team/Quickstart`
-- 🟢 Open · [Fix mal_all genre source lost on import and export](https://github.com/Kometa-Team/Quickstart/pull/1979) — `Kometa-Team/Quickstart`
-- 🟢 Open · [Fix outdated README docker run example and Logscan scope note](https://github.com/Kometa-Team/Quickstart/pull/1978) — `Kometa-Team/Quickstart`
+- 🟣 Merged · [Require lowercase index in processing mode values](https://github.com/Kometa-Team/Quickstart/pull/1982) — `Kometa-Team/Quickstart`
+- 🟣 Merged · [Add the --timings option to the Kometa run options](https://github.com/Kometa-Team/Quickstart/pull/1981) — `Kometa-Team/Quickstart`
+- 🟣 Merged · [Reject divider characters that break the Kometa run command](https://github.com/Kometa-Team/Quickstart/pull/1980) — `Kometa-Team/Quickstart`
+- 🟣 Merged · [Fix mal_all genre source lost on import and export](https://github.com/Kometa-Team/Quickstart/pull/1979) — `Kometa-Team/Quickstart`
+- 🟣 Merged · [Fix outdated README docker run example and Logscan scope note](https://github.com/Kometa-Team/Quickstart/pull/1978) — `Kometa-Team/Quickstart`
 - 🟣 Merged · [Recognize TVDb, TMDb and IMDb IDs in Plex NFO Series agent GUIDs](https://github.com/Kometa-Team/Kometa/pull/3880) — `Kometa-Team/Kometa`
 - 🟣 Merged · [Support super().prop for pyscript properties](https://github.com/custom-components/pyscript/pull/923) — `custom-components/pyscript`
 - 🟣 Merged · [Docs: how to read an attribute's old and new values (#433)](https://github.com/custom-components/pyscript/pull/922) — `custom-components/pyscript`
